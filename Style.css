@@ -1,0 +1,291 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('download.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Navbar{
+    width: 95%;
+    height: auto;
+    margin-left: 30px;
+}
+
+.logo{
+    color: #fff;
+    font-size: 40px;
+    font-family: arial;
+    float: left;
+    padding-top: .6%;
+    cursor: pointer;
+}
+
+.search-box{
+    float: right;
+    width: 240px;
+    background: white;
+    height: 30px;
+    padding: 8px;
+    border-radius: 15px;
+    margin-top: 1%;
+    margin-right: 2%;
+}
+
+.search-box .search-txt{
+    width: 190px;
+    padding: 0 6px;
+}
+
+.search-btn{
+    text-decoration: none;
+    background: #fff;
+    color: #000;
+    display: flex;
+    float: right;
+    justify-content: center;
+    align-items: center;
+    width: 30px;
+    height: 30px;
+}
+
+.search-txt{
+    border: none;
+    background: none;
+    outline: none;
+    float: left;
+    color: #000;
+    font-size: 16px;
+    line-height: 30px;
+    letter-spacing: .6px;
+}
+
+h1{
+    color: red;
+    font-size: 52px;
+    background-color: cyan;
+    font-family: "Bitcount Grid Double", system-ui;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h2{
+    color: red;
+    font-size: 32px;
+    background-color: cyan;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview1{
+    color: gold;
+    padding: 5%  17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview2{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.img{
+    text-align: center;
+    font-size: 13%;
+}
+
+.Preview3{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text1{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview4{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text2{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text7{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview5{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text3{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview6{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text4{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview7{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text5{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview8{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Section5{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview9{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.text6{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.Preview10{
+    color: gold;
+    padding: 5% 17%;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 20px;
+    color: yellowgreen;
+}
+
+.footerP{
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px 0;
+    color: red;
+}
+
+.footer{
+    background-color: black;
+    padding: 10px 0;
+}
